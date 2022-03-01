@@ -1,0 +1,727 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Catholikes supplication vnto the Kings Maiestie, for toleration of Catholike religion in England: with short notes or animaduersions in the margine. : Whereunto is annexed parallel-wise, a supplicatorie counterpoyse of the Protestants, vnto the same most excellent Maiestie. : Together with the reasons of both sides, for and against toleration of diuers religions..</title>
+            <author>Powel, Gabriel, 1576-1611.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1603</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07995</idno>
+            <idno type="STC">STC 20141.5</idno>
+            <idno type="STC">ESTC S94766</idno>
+            <idno type="EEBO-CITATION">68222581</idno>
+            <idno type="OCLC">ocm 68222581</idno>
+            <idno type="VID">183783</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07995)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183783)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2198:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Catholikes supplication vnto the Kings Maiestie, for toleration of Catholike religion in England: with short notes or animaduersions in the margine. : Whereunto is annexed parallel-wise, a supplicatorie counterpoyse of the Protestants, vnto the same most excellent Maiestie. : Together with the reasons of both sides, for and against toleration of diuers religions..</title>
+                  <author>Powel, Gabriel, 1576-1611.</author>
+               </titleStmt>
+               <extent>[3], 6-39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by Felix Kyngston, for Edmund Weauer, and are to be solde at his shop, at the great North doore of Paules Church.,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1603..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Gabriel Powel.</note>
+                  <note>Signatures: [A]⁴(-[A]1) B-E⁴.</note>
+                  <note>Printer's device on t.p. (McK. 273); head-pieces, initials.</note>
+                  <note>In this state, C₄v line 12 ends "and abroade."; D₃r line 5 has "consequence.".</note>
+                  <note>Error in paging: p. 19 mis-numbered 17.</note>
+                  <note>Imperfect: stained, worn edges, with loss of some page numbers.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Catholics --  England --  Early works to 1800.</term>
+               <term>Protestants --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183783:1" rendition="simple:additions"/>
+            <p>THE CATHOLIKES SVPPLICATION VN<g ref="char:EOLhyphen"/>TO THE KINGS MAIESTIE; FOR TOLERATION OF Catholike Religion in <hi>England:</hi>
+            </p>
+            <p>WITH SHORT NOTES OR A<g ref="char:EOLhyphen"/>nimaduerſions in the margine.</p>
+            <p>
+               <hi>Whereunto is annexed Parallel-wiſe, a Supplicatorie</hi> Counterpoyſe of the Proteſtants, vnto <hi>the ſame most excellent Maiestie.</hi>
+            </p>
+            <p>Together with the reaſons of both ſides, for <hi>and against toleration of diuers</hi> Religions.</p>
+            <figure>
+               <head>BY WISDOME PEACE BY PEACE PLENTY</head>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>AT LONDON</hi> Imprinted by <hi>Felix Kyngston,</hi> for <hi>Edmund Weauer,</hi> and are to be ſolde at his ſhop, at the great North doore of Paules Church. 1603.</p>
+         </div>
+      </front>
+      <body>
+         <div type="supplication">
+            <pb n="6" facs="tcp:183783:2"/>
+            <head>THE CATHOLIKES SVPPLICATION.</head>
+            <head type="sub">Most puiſſant Prince, and orient Monarch,</head>
+            <p n="1">1<seg rend="decorInit">S</seg>Vch are the rare perfecti<g ref="char:EOLhyphen"/>ons and admirable gifts of wiſedome, prudence, valour and iuſtice, where<g ref="char:EOLhyphen"/>with the bountifull hand of Gods diuine Maieſtie hath endued your Maie<g ref="char:EOLhyphen"/>ſtie, as in the depth of your prouident iudgement, we doubt not but you foreſee what concerneth both the ſpirituall and temporall gouernment of all your kingdomes and dominions.</p>
+            <p n="2">2 Notwithſtanding your Graces moſt afflicted ſubiects and deuoted ſeruants, the Catholikes of England, partly to preuent ſiniſter informations, which happily may poſſeſſe your ſacred eares, be<g ref="char:EOLhyphen"/>fore our anſwere be heard; partly almoſt as men<note n="1" place="margin">Impudent fellowes! A manifeſt vn<g ref="char:EOLhyphen"/>truth, as all the world knoweth.</note> ouerwhelmed with perſecutions for our conſci<g ref="char:EOLhyphen"/>ences, we are enforced to haue ſpeedie recourſe in hope of preſent redreſſe from your Highneſſe, and
+<pb n="8" facs="tcp:183783:3"/>to preſent theſe humble lines vnto your royall per<g ref="char:EOLhyphen"/>ſon to pleade for vs ſome commiſeration and fa<g ref="char:EOLhyphen"/>uour.</p>
+            <p n="3">3. What allegeance or dutie<note n="2" place="margin">What dutie? <hi>Fidelitie and loyaltie:</hi> which the Papiſts (by vertue of their Religion) can affoord no po<g ref="char:EOLhyphen"/>tentate but the Pope.</note> can any<note n="3" place="margin">Theſe men hold that no temporall Prince ought to deſire or expect any thing at their hands which may preiudice the Pope.</note> tempo<g ref="char:EOLhyphen"/>rall Prince deſire or expect at his vaſſals hands, which wee are not addreſſed to<note n="4" place="margin">True, conditionally if they thinke it be not preiudiciall to the Pope.</note> performe? How many Noble-men and worthie Gentlemen, moſt zealous in the Catholike Religion, haue endured, ſome loſſe of lands and liuings, ſome exile, others impriſonment, ſome the effuſion of bloud and life for the aduauncement of your bleſſed Mothers<note n="5" place="margin">The Papiſts iudged Queene <hi>Elizabeth</hi> hereticall and iuſtly depoſed by the Bull of <hi>Pius</hi> V. and therefore thought them<g ref="char:EOLhyphen"/>ſelues free from their allegeance vnto her; and ſo traiterouſly gaue away her right vnto another. Otherwiſe how could any pretend RIGHT <hi>vnto the ſcepter of Albion,</hi> Queene <hi>Elizabeth</hi> being yet liuing? and there is great difference betweene RIGHT and TITLE.</note> right vnto the ſcepter of Albion? Nay, whoſe finger did euer ake, but Catholikes, for your<note n="6" place="margin">What loyall hearts Papiſts beare the Kings Maieſtie, appeareth by their ſundrie conſpiracies againſt his ſacred perſon from time to time: eſpecially by that in the yeere 1591, recorded in publike print.</note> Ma<g ref="char:EOLhyphen"/>ieſties preſent title and dominion?</p>
+            <p n="4">4 How many<note n="7" place="margin">If any ſo fled it was not for their good be<g ref="char:EOLhyphen"/>hauiour: and wiſe Princes doe well know how to eſteem of ſuch mens offers.</note> fled to your Court offering themſelues as hoſtages for their friends, to liue and die in your Graces quarrell, if euer Aduerſarie had oppoſed himſelf againſt the<note n="8" place="margin">Who forged and furthered the <hi>Jnfantaes</hi> pretended title, but Papiſts? yet now they acknowledge Gods right and their owne madnes.</note> equitie of your cauſe? If this they attempted with their<note n="9" place="margin">Good and loyall ſubiects forſooth, vnto their owne Prince in the meane while. Can trayterous hearts vnto Queene <hi>Elizabeth,</hi> be good ſubiects vnto King <hi>James?</hi>
+               </note> Princes diſ<g ref="char:EOLhyphen"/>grace, to obtaine your Maieſties grace; what will they doe? nay, what will they not do, to liue with<g ref="char:EOLhyphen"/>out diſgrace in your Graces fauour?</p>
+            <pb n="10" facs="tcp:183783:4"/>
+            <p n="5">5 The maine of this Realme, if we reſpect Reli<g ref="char:EOLhyphen"/>gion (ſetting pettie ſects aſide) conſiſteth vpon<note n="10" place="margin">A manifeſt ſlaunder of our Chriſtian Church and S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> foure parts: Proteſtants, who haue dominiered all the former Queenes daies: Puritanes, who haue crept vp apace among them: Atheiſts or Politi<g ref="char:EOLhyphen"/>tians, who were bred vpon their brawles and con<g ref="char:EOLhyphen"/>tentions in<note n="11" place="margin">A flat vn<g ref="char:EOLhyphen"/>truth: the diſ<g ref="char:EOLhyphen"/>ſenſion be<g ref="char:EOLhyphen"/>tweene them is onely con<g ref="char:EOLhyphen"/>cerning exter<g ref="char:EOLhyphen"/>nall matters of diſcipline and ceremonies, which belong rather to the policie of the Church, then to faith and doctrine.</note> matters of faith: And Catholikes, who as they are oppoſite to all, ſo are they deteſted of all,<note n="12" place="margin">An argument from the ſtaffe to the corner.</note> becauſe Errour was euer an enemie to Truth.</p>
+            <p n="6">6 Hardly al, or any of the firſt, two three can be<note n="13" place="margin">They would faine ſuppreſſe the Kings Ma<g ref="char:EOLunhyphen"/>ieſtie alſo a<g ref="char:EOLhyphen"/>mong other Proteſtants, if they could tell how. God pre<g ref="char:EOLhyphen"/>ſerue his grace from ſuch ſub<g ref="char:EOLhyphen"/>iects, Amen.</note> ſuppreſſed: and therefore we beſeech your Ma<g ref="char:EOLhyphen"/>ieſtie to yeeld vs as much fauour, as<note n="14" place="margin">Will you haue as much fauour as the Atheiſts haue? Like lips, like lettuce.</note> others of contrarie religion (to that which ſhall be publikely profeſſed in England) ſhall obtaine at your hands. For if our fault be<note n="15" place="margin">No likenes at all. Proteſtants are loyall ſubiects; ſo are not Papiſts. Atheiſts we haue none, at leaſt none that profeſſe themſelues ſo to be: ſo would God we had no Papiſts. Puritane, is a name proper vnto the Anabaptiſts and Famelians, whom our ſtate doth no way fauour.</note> like, or leſſe, or none at all; in equitie, our puniſhment ought to be like, or leſſe, or none at all.</p>
+            <p n="7">7 The Gates, Arches, and Pyramides of France proclaimed the preſent King <hi>Pater patriae &amp; pacis restitutor,</hi> becauſe that kingdome being well nigh torne in pieces with ciuill warres, and made a pray
+<pb n="12" facs="tcp:183783:5"/>to forraine foes, was by his prouident wiſedome and valour acquited in it ſelf, and hoſtile ſtrangers expelled; the which he principally effected<note n="16" place="margin">Non cauſa pro cauſa. <hi>Read the Counter<g ref="char:EOLhyphen"/>poyſe.</hi>
+               </note> by condeſcending to tolerate them of an aduerſe re<g ref="char:EOLhyphen"/>ligion, to that was openly profeſſed.</p>
+            <p n="8">8 Queſtionleſſe, dread Soueraigne, the king<g ref="char:EOLhyphen"/>dome of England, by cruell<note n="17" place="margin">An impu<g ref="char:EOLhyphen"/>dent lye.</note> perſecution of Ca<g ref="char:EOLhyphen"/>tholikes, hath been almoſt odious to all Chriſtian Nations: Trade and traffique is<note n="18" place="margin">And all by reaſon of Ca<g ref="char:EOLhyphen"/>tholikes trea<g ref="char:EOLhyphen"/>ſon, rebellion, and other diſ<g ref="char:EOLhyphen"/>loyall practiſes &amp; ſtratagems.</note> decayed, warres and bloud hath ſeldome ceaſed, Subſidies and taxes neuer ſo many, diſcontented mindes innu<g ref="char:EOLhyphen"/>merable; all which your Maieſties princely<note n="19" place="margin">If the Pa<g ref="char:EOLhyphen"/>piſts haue pra<g ref="char:EOLhyphen"/>ctiſed treaſon and rebellion in time of their reſtraint; what will they not dare to atte<g ref="char:cmbAbbrStroke">̄</g>pt, hauing further libertie?</note> con<g ref="char:EOLhyphen"/>niuencie to your humble Suppliants, the afflicted Catholikes, will eaſily redreſſe, eſpecially at your Highneſſe ingreſſe.<note n="*" place="margin">3. <hi>Reg.</hi> 12.7.</note> 
+               <hi>Si loquaris ad eos verba lenia, erunt tibi ſerui cunctis diebus,</hi> ſaid the ſage Counſel<g ref="char:EOLhyphen"/>lors of <hi>Salomon</hi> to<note n="20" place="margin">The Kings Maieſtie is not ſuch an infant in gouernment, but he knoweth, No ſub<g ref="char:EOLhyphen"/>iect can faithfully ſerue two maſters, the Pope and his liege King.</note> 
+               <hi>Rehoboam.</hi> For enlargement af<g ref="char:EOLhyphen"/>ter affliction reſembleth a pleaſant gale after a ve<g ref="char:EOLhyphen"/>hement tempeſt: and a benefit in diſtreſſe dou<g ref="char:EOLhyphen"/>bleth the value thereof.</p>
+            <p n="9">9 How gratefull will it bee to all<note n="21" place="margin">Syrenicall fond ſuggeſti<g ref="char:EOLhyphen"/>ons, as if his Highnes cared what account the Turke or Pope ſhould make of him.</note> Catholike Princes abroad, and honourable to your Maieſtie, to vnderſtand how Queene<note n="22" place="margin">Cauſeleſſe complaints, as his Maieſtie well knoweth.</note> 
+               <hi>Elizabeths</hi> ſeueritie is chaunged into your royall clemencie: and that
+<pb n="14" facs="tcp:183783:6"/>the lenitie of a man reedified that which the miſin<g ref="char:EOLhyphen"/>formed anger of a woman deſtroyed: That the Lion rampant is paſſant, whereas the paſſant had been rampant? How acceptable ſhall all your ſub<g ref="char:EOLhyphen"/>iects be to all Catholike countries, who are now al<g ref="char:EOLhyphen"/>moſt abhorred<note n="23" place="margin">Of none but of the wicked.</note> of all, when they ſhall perceiue your Highnes prepareth not pikes and priſons for the profeſſours of their faith, but permitteth them Temples and Altars for the vſe of their Religion? Then ſhall wee ſee with our eyes and touch with our fingers that happie benediction of <hi>Eſay</hi> in this land,<note n="*" place="margin">
+                  <hi>Eſay</hi> 2.4.</note> that<note n="24" place="margin">A plaine non ſequitur; for you ſpeake by contra<g ref="char:EOLhyphen"/>ries.</note> ſwords are changed into ploughs, and launces in to ſithes. And all Nations admiring vs will ſay, <hi>Hi ſunt ſemen cui benedixit Dominus.</hi>
+            </p>
+            <p n="10">10 We requeſt no more fauour at your Graces hands, then that wee may ſecurely<note n="25" place="margin">Yea, but the Magiſtrate is keeper of the whole Deca<g ref="char:EOLhyphen"/>logue; where<g ref="char:EOLhyphen"/>by Idolatrie is flatly forbid<g ref="char:EOLhyphen"/>den.</note> profeſſe that Catholike Religion, which all your happie Prede<g ref="char:EOLhyphen"/>ceſſours profeſſed, from<note n="26" place="margin">Poperie was not hatched in <hi>Donaldus</hi> his daies.</note> 
+               <hi>Donaldus</hi> the firſt con<g ref="char:EOLhyphen"/>uerted, vnto your Maieſties peereleſſe Mother laſt martyred.</p>
+            <p n="11">11 A Religion<note n="27" place="margin">Woe be to them that call darknes light, <hi>Eſay</hi> 5.20. This whole ſection is a plain begging of the Queſtion.</note> venerable for antiquitie, maie<g ref="char:EOLhyphen"/>ſticall for<note n="28" place="margin">So is Turciſme and Paganiſme.</note> amplitude, conſtant for continuance, irreprehenſible for doctrine, inducing to all kinde of<note n="29" place="margin">You would ſay Treaſon and Rebellion againſt lawfull Princes.</note> vertue and pietie, diſſwading from all ſinne and wickednes. A Religion beloued by all primi<g ref="char:EOLhyphen"/>tiue
+<pb n="16" facs="tcp:183783:7"/>Paſtours, eſtabliſhed by all Oecumenicall Councels, vpheld by all ancient Doctors, maintai<g ref="char:EOLhyphen"/>ned by the firſt and moſt Chriſtian Emperours, re<g ref="char:EOLhyphen"/>corded almoſt alone in all Eccleſiaſticall Hiſtories, ſealed with the bloud of millions of Martyrs, ador<g ref="char:EOLhyphen"/>ned with the vertues of ſo many Confeſſors, beau<g ref="char:EOLhyphen"/>tified with the puritie of thouſands of Virgines, ſo<note n="30" place="margin">A fit com<g ref="char:EOLhyphen"/>mendation for Papiſtrie, to be nothing but meere ſen<g ref="char:EOLhyphen"/>ſualitie. <hi>Ma<g ref="char:EOLhyphen"/>lum ouum mali corui.</hi>
+               </note> conformable to naturall ſenſe and reaſon, and fi<g ref="char:EOLhyphen"/>nally ſo agreeable to the ſacred text of Gods word and Goſpell. The free vſe of this Religion wee re<g ref="char:EOLhyphen"/>queſt, if not in publike Churches, at leaſt in priuate houſes; if not with approbation, yet with tolera<g ref="char:EOLhyphen"/>tion, without moleſtation.</p>
+            <p n="12">12 Aſſure your Grace that howſoeuer ſome<note n="31" place="margin">Mutato no<g ref="char:EOLhyphen"/>mine, de te, ô Papiſta, Fabula narratur.</note> Proteſtants or Puritanes, incited by morall hone<g ref="char:EOLhyphen"/>ſtie of life, or innated inſtinct of nature, or for feare of ſome temporal puniſhment, pretend obedience vnto your Highnes lawes; yet certainly the onely Catholikes for conſcience ſake obſerue them. For they defending that Princes precepts and ſtatutes oblige no ſubiect vnder the<note n="32" place="margin">A groſſe ca<g ref="char:EOLhyphen"/>lumniation: as if we defended that the wic<g ref="char:EOLhyphen"/>ked for diſobe<g ref="char:EOLhyphen"/>dience ſhould feele no pe<g ref="char:EOLhyphen"/>naltie, but on<g ref="char:EOLhyphen"/>ly ſhould be diſquieted with the guilt of ſinne: and not rather that penaltie is an infallible conſequence of the guilt, if both be not taken away by Chriſt.</note> penaltie of ſinne, will little care in conſcience to tranſgreſſe them which principally are tormented with the guilt of ſinne. But Catholikes confeſſing merite in<note n="33" place="margin">True, in obeying the Popes de<g ref="char:EOLhyphen"/>crees and commandements, but not Princes precepts, except it ſtand with the Popes good liking.</note> obey<g ref="char:EOLhyphen"/>ing, and demerite in tranſgreſſing, cannot but in ſoule be grieuouſly<note n="3r" place="margin">Yea, but all theſe tortures will ſoone be alaied, euen by one breath of a Babylonian Bull.</note> tortured, at the leaſt preuari<g ref="char:EOLhyphen"/>cation thereof.</p>
+            <pb n="18" facs="tcp:183783:8"/>
+            <p n="13">13 Wherefore moſt mercifull Soueraigne, wee your long afflicted ſubiects, in all dutifull ſubmiſ<g ref="char:EOLhyphen"/>ſion,<note n="35" place="margin">
+                  <hi>Timeas Da<g ref="char:EOLhyphen"/>naos, vel dona ferentes.</hi> As if the Pope by one word were not able to diſ<g ref="char:EOLhyphen"/>pence with all this: and to cauſe any Pa<g ref="char:EOLhyphen"/>piſt to doe any thing euen at a becke vnder paine of the greater curſe and eternall damnation of bodie and ſoule, in caſe of refuſall. <hi>O Lord open the eyes of theſe men.</hi>
+               </note> proteſt before the Maieſtie of God and all his holie Angels, as loyall obedience and as imma<g ref="char:EOLhyphen"/>culate allegeance vnto your Grace, as euer did faithful ſubiects in England or Scotland vnto your Highnes progenitours; and intend as ſincerelie with our goods and liues to ſerue you, as euer did the loyalleſt Iſraelites King <hi>Dauid,</hi> or the truſtie le<g ref="char:EOLhyphen"/>gions the Romane Emperours.</p>
+            <p n="14">14 And thus expecting your Maieſtie cuſto<g ref="char:EOLhyphen"/>marie fauour and gracious bountie, wee reſt your deuoted Suppliants to him whoſe hands doe man<g ref="char:EOLhyphen"/>nage the hearts of Kings, and with reciprocate mercie will requite the mercifull.</p>
+            <closer>
+               <signed>
+                  <hi>Your ſacred Maiesties moſt deuoted Seruants,</hi> The Catholikes of <hi>England.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="counterpoise">
+            <pb n="7" facs="tcp:183783:2"/>
+            <head>THE PROTESTANTS COVNTERPOYSE.</head>
+            <head type="sub">Moſt puiſſant Prince and mightie Monarch,</head>
+            <p n="1">1<seg rend="decorInit">S</seg>Vch are the rare perfections and admirable gifts of wiſe<g ref="char:EOLhyphen"/>dome, prudence, valour, iu<g ref="char:EOLhyphen"/>ſtice, <hi>religion and godlineſſe,</hi> wherwith the bountiful hand of Gods diuine Maieſtie hath endued your Maieſtie, as in the depth of your pro<g ref="char:EOLhyphen"/>uident iudgement, we doubt not but you foreſee what concerneth both the ſpirituall and temporall gouernment of al your kingdoms and dominions.</p>
+            <p n="2">2 Notwithſtanding your Graces moſt <hi>faithfull</hi> ſubiects and deuoted ſeruants, the <hi>Proteſtants</hi> of England, partlie to preuent ſiniſter <hi>ſuggeſtions a<g ref="char:EOLhyphen"/>gainſt the peace of our Church and Common-wealth,</hi> which happily might <hi>importune</hi> your ſacred <hi>Maie<g ref="char:EOLhyphen"/>ſtie:</hi> partly almoſt <hi>(not long ſithence)</hi> as men <hi>in dan<g ref="char:EOLhyphen"/>ger to be expoſed as a pray vnto the enemie,</hi> to be ouer<g ref="char:EOLhyphen"/>whelmed with perſecutions for our conſciences, we are inforced to haue ſpeedie recourſe <hi>for</hi> pre<g ref="char:EOLhyphen"/>ſent redreſſe from your Highneſſe, and to preſent theſe humble lines vnto your royall perſon, to
+<pb n="9" facs="tcp:183783:3"/>pleade for vs <hi>your Maieſties gratious fauour and prince<g ref="char:EOLhyphen"/>ly patronage.</hi>
+            </p>
+            <p n="3">3 What allegeance or dutie can any <hi>King or earthly</hi> Prince deſire or expect at his vaſſals hands, which we <hi>either doe not preſently yeeld,</hi> or are not ad<g ref="char:EOLhyphen"/>dreſſed to performe? How many Noble-men and worthie Gentlemen, moſt zealous in the <hi>true Chri<g ref="char:EOLhyphen"/>ſtian</hi> Religion, haue <hi>euer ſpecially reſpected your Maie<g ref="char:EOLhyphen"/>ſties ſacred perſon? How many haue moſt carefully &amp; reli<g ref="char:EOLhyphen"/>giouſly, for conſcience ſake, in our late ſoueraigne Queene</hi> Elizabeth, <hi>of bleſſed memorie, her happie daies, for the ſatisfying of their owne dutie, and the eſtabliſhing of the ignorant and doubtfull mindes of their friends and fa<g ref="char:EOLhyphen"/>uourites, priuately without contention, breach of law, or diſloyaltie to their Prince, conferred together and expli<g ref="char:EOLhyphen"/>cated your Highnes iuſt and lawfull title,</hi> for the ad<g ref="char:EOLhyphen"/>uancement of your ſucceſſiue right vnto the Scep<g ref="char:EOLhyphen"/>ter of <hi>Albion?</hi> Nay, who euer <hi>trauerſed,</hi> but<note n="a" place="margin">For all Pa<g ref="char:EOLhyphen"/>piſts intended to ſet vp ſome one of their ſect and facti<g ref="char:EOLhyphen"/>on: eſpecially the Infanta of Spaine.</note> 
+               <hi>Prote<g ref="char:EOLhyphen"/>ſtants,</hi> for your Maieſties preſent title &amp; dominion?</p>
+            <p n="4">4 If this they <hi>did in the life of our late Soueraigne, not to flatter and diſſemble with your Grace, but for iustice and equitie, for truth and conſcience cauſe:</hi> what will they doe? nay, what will they not doe, to liue <hi>in grace,</hi> without <hi>moleſtation or</hi> diſgrace in your Graces fauour? <hi>Now therefore the hereditarie right of the Scepter, being lawfully deuolued vnto your Maie<g ref="char:EOLhyphen"/>ſtie, who is he amongst vs, that will not</hi> flie vnto your Court offering himſelf as<note n="b" place="margin">See the E<g ref="char:EOLhyphen"/>dict of the Peeres of England Martij 24. 1603.</note> hoſtage for his friends, <hi>to loſe lands and liuings, to the effuſion of his deareſt blood,</hi> to liue and die in your Graces quarrell, if e<g ref="char:EOLhyphen"/>uer aduerſarie <hi>ſhall once dare to</hi> oppoſe himſelfe a<g ref="char:EOLhyphen"/>gainſt the equitie of your cauſe?</p>
+            <pb n="11" facs="tcp:183783:4"/>
+            <p n="5">5 The maine of this Realme, if we reſpect Reli<g ref="char:EOLhyphen"/>gion, conſiſteth vpon two parts: <hi>Papiſts,</hi> who in the <hi>latter yeares of our</hi> late Queenes time,<note n="c" place="margin">See the Queenes e<g ref="char:EOLhyphen"/>dict, Nouemb. 5. 1602. Anno Reg. Regin. Eliz. 44.</note> 
+               <hi>by generall neglect in executing of good lawes and the ſlumber of iuſtice,</hi> haue crept vp apace amongſt vs: And <hi>Pro<g ref="char:EOLhyphen"/>teſtants,</hi> who as they are oppoſit to <hi>the Papiſts;</hi> ſo are they deteſted of <hi>them:</hi> becauſe Errour was euer an enemie to Truth.</p>
+            <p n="6">6 <hi>Theſe two cannot poſsibly ſtand together:</hi>
+               <note n="*" place="margin">2. <hi>Cor.</hi> 6.14. <hi>&amp;</hi> 15.</note> 
+               <hi>For what fellowſhip hath righteouſnes with vnrighteouſnes? And what communion hath light with darknes? what concord hath Chriſt with</hi> Belial? <hi>or what part hath the beleeuer with the Infidell; the Chriſtian Proteſtant, with the Popiſh Idolatour?</hi> And therefore we beſeech your Maieſtie to <hi>affoord</hi> vs as much fauour, as other <hi>Princes</hi> of contrarie religion (to that which <hi>is</hi> pub<g ref="char:EOLhyphen"/>likely profeſſed in England) <hi>doe yeeld vnto their Subiects. Other Princes tolerate no Proteſtants to liue and ſerue their God in ſpirit and Truth, amongſt their Popiſh Subiects: And we hope your Maieſtie will tolerate no Papiſts to liue and to blaſpheme our God with Ido<g ref="char:EOLhyphen"/>latrie and falſe worſhip among your Chriſtian Subiects:</hi> For if our caſe be like, or <hi>better then theirs is;</hi> in equi<g ref="char:EOLhyphen"/>tie, our <hi>vſage</hi> ought to be like, or <hi>better then theirs is.</hi>
+            </p>
+            <p n="7">7 The Gates, arches, and pyramides of Fraunce proclaimed the preſent King <hi>Pater patriae &amp; pacis reſtitutor,</hi> becauſe that kingdome being welnigh torne in peeces with ciuill warres, and made a pray to forraine foes, was by his prouident wiſedome and valor, acquited in it ſelfe, and hoſtile ſtrangers expelled; the which he principally effected, <hi>by</hi>
+               <note n="d" place="margin">Vide Ant. Arnaldi acti<g ref="char:EOLhyphen"/>onem contr. Ie<g ref="char:EOLhyphen"/>ſuit. Et, Orati<g ref="char:EOLhyphen"/>onem ingenua<g ref="char:cmbAbbrStroke">̄</g> &amp; veram ad Regem Galliae de Reſtitut. Ieſuitarum. Lugdun. an. <hi>1602.</hi>
+               </note> adiudging the Ieſuites, the firebrands of ſedition and
+<pb n="13" facs="tcp:183783:5"/>rebellion, to perpetuall exile out of his kingdome. So ſhall your Highnes be truely called <hi>Pater patriae &amp; fidei de<g ref="char:EOLhyphen"/>fenſor,</hi> if you vindicate your owne ſacred Perſon from the treacherous attempts of hollow hearted Subiects, your Realmes from the inuaſions and aſſaults of forraine foes, and the Maieſtie of the euerliuing God, from being blaſ<g ref="char:EOLhyphen"/>phemed and profaned by vile Idolatours: all which you ſhall wiſely and valorouſly effect, by adiudging ſedi<g ref="char:EOLhyphen"/>tious Ieſuites, treacherous Prieſts, and all their Schollers the ſtirrers vp of commotions and broyles, to perpetuall baniſhment out of your kingdoms and dominions.</p>
+            <p n="8">
+               <hi>8 Queſtionleſſe, dread Soueraigne, the king<g ref="char:EOLhyphen"/>doms of England</hi> and Ireland, by vnnaturall, diſloyall and traiterous practiſes of cruell Romiſh Catholikes,<note n="e" place="margin">Who rebel<g ref="char:EOLhyphen"/>led at any time ſithence the beginning of Queene <hi>Eli<g ref="char:EOLhyphen"/>zabeths</hi> raigne but Papiſts? Who were rebels, com<g ref="char:EOLhyphen"/>partners, ab<g ref="char:EOLhyphen"/>bettors and fauorites, but Papiſts? and conſequently who were the cauſe of ſo many ſubſidies and taxes, but the ſame men?</note> 
+               <hi>haue been almoſt</hi> waſted, and made a ſpectacle <hi>to all Chriſtian Nations. Trade and traffike is</hi> much <hi>de<g ref="char:EOLhyphen"/>cayed, warres and blood hath ſeldome ceaſed, ſub<g ref="char:EOLhyphen"/>ſidies and taxes neuer ſo many, diſcontented mindes innumerable; all which your Maieſties princely regard of</hi> the <hi>humble</hi> ſute <hi>of your</hi> deuoted <hi>Suppliants, the</hi> faithfull Proteſtants, <hi>will eaſily re<g ref="char:EOLhyphen"/>dreſſe, eſpecially at your Highnes</hi>
+               <note n="f" place="margin">See <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, lib. 2. pag. 29.</note> 
+               <hi>ingreſſe.</hi>
+               <note n="*" place="margin">1. <hi>King.</hi> 18.21.</note> Si Ie<g ref="char:EOLhyphen"/>houah ſit Deus ipſe, ſequere eum; ſin autem iſtorum Baal, ſequere eum, was the wiſe counſaile of holy <hi>Eliah</hi> vnto the people of Iſrael. But to admit of two contrarie Religi<g ref="char:EOLhyphen"/>ons, were to halt betweene two opinions.</p>
+            <p n="9">
+               <hi>9 How gratefull wil it be to all</hi> Chriſtian <hi>Princes abroade, and honorable to your Maieſtie, to vnder<g ref="char:EOLhyphen"/>ſtand how Queene</hi> Elizabeths ſinceritie <hi>is</hi> continued <hi>by your royall</hi> conſtancie, <hi>and that the</hi> courage <hi>of a man reedified that which the</hi> not-<hi>informed</hi> Iuſtice <hi>of a woman</hi> winked at? <hi>That the Lyon rampant</hi>
+               <pb n="15" facs="tcp:183783:6"/>trampleth vnder foote the enemies of God and his truth, of their Prince and Countrie; <hi>whereas the paſſant had been</hi> nothing leſſe then <hi>rampant? How acceptable ſhall all your ſubiects be to all Chriſtian countries,</hi> who lately feared the apoſtaſie of your kingdomes, <hi>when they ſhall perceiue your highneſſe</hi> ſtill maintaineth true Religion, and<note n="g" place="margin">See <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Lib. 1. pag. 19.</note> permitteth not Idolatrous Papiſts to perturbe &amp; moleſt the ſincere profeſſors of the true faith, or to prophane the worſhip of God, by profeſsion and vſe of their ſuperſtition. <hi>Then ſhall we ſee with our eyes, and touch with our fingers that happie benedicti<g ref="char:EOLhyphen"/>on of</hi> Eſay <hi>in this land, that</hi>
+               <note n="*" place="margin">
+                  <hi>Eſay.</hi> 2.4.</note> 
+               <hi>ſwords are changed into ploughes, and launces into ſithes: And all Nations admiring vs will ſay,</hi> Hiſunt ſemen, cui be<g ref="char:EOLhyphen"/>nedixit dominus.</p>
+            <p n="10">
+               <hi>10 We requeſt no more fauour at your Graces hands, then that</hi> you would compell all your Subiects to ſeeke the Lord and his face continually; that you would<note n="h" place="margin">See <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Lib. 1. pag. 19.</note> prohibit Idolatrie, repreſſe blaſphemie, aboliſh falſe wor<g ref="char:EOLhyphen"/>ſhip, and cauſe all, within your dominions, to embrace that onely true religion which your happie predeceſſors King <hi>Edward</hi> the ſixt, &amp; Queene <hi>Elizabeth</hi> of bleſſed and famous memorie, conſtantly maintained; yea which alſo your ſacred Maieſtie hath euer hitherto with ſingular<note n="i" place="margin">See <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Lib. 1. pag. 5. 20. &amp; 21.</note> conſtancie, and doth now zealouſly and ſincerely profeſſe.</p>
+            <p n="11">
+               <hi>11 A Religion venerable for antiquitie, maie<g ref="char:EOLhyphen"/>ſticall for</hi> comely order, admirable for power and ver<g ref="char:EOLhyphen"/>tue, certaine for truth, <hi>irreprehenſible for Doctrine, inducing to all kind of vertue and pietie, diſſwa<g ref="char:EOLhyphen"/>ding from all ſinne and wickednes. A religion</hi> ap<g ref="char:EOLhyphen"/>proued by God himſelfe, allowed by his wiſedome, and confirmed by his holy ſpirit, rooted in the elect, <hi>beloued
+<pb n="17" facs="tcp:183783:7"/>of all primitiue paſtours, eſtabliſhed by</hi> the beſt <hi>Oe<g ref="char:EOLhyphen"/>cumenicall councels, vpheld by all ancient Do<g ref="char:EOLhyphen"/>ctours, maintained by the firſt and moſt chriſtian Emperours, recorded in the</hi> holy Scriptures, <hi>ſealed with the blood of millions of Martyrs, and</hi> con<g ref="char:EOLhyphen"/>ſtantly profeſſed by all holy <hi>confeſſors,</hi> that neuer was doubted of but by her enemies, neuer ſaw change but of Heretikes, being the onely Religion that is taught <hi>in Gods ſacred word and Goſpell.</hi> Popiſh Idolatrie it is that we craue to be repreſſed, if not by a new decree, at leaſtwiſe by ſtrict execution of ſuch good lawes that in ſuch caſes are alreadie enacted.</p>
+            <p n="12">
+               <hi>12 Aſſure your Grace that howſoeuer ſome</hi> Pa<g ref="char:EOLhyphen"/>piſts <hi>incited by morall honeſtie of life, or innated inſtinct of nature, or for feare of ſome temporall puniſhment, pretend obedience vnto your high<g ref="char:EOLhyphen"/>nes lawes; yet certainely the onely</hi> Proteſtants <hi>for conſcience ſake obſerue them. For they defending</hi> theſe daungerous and damnable<note n="k" place="margin">Vide Orat. ad Reg. Galliae de Reſtit. Ieſuit. &amp; Eman. Sa. in aphoriſm. Confeſſari<g ref="char:EOLhyphen"/>orum. &amp; Bel<g ref="char:EOLhyphen"/>larm. lib. de Exempt. Cleri<g ref="char:EOLhyphen"/>corum.</note> propoſitions, <hi>1.</hi> That the Pope hath power to excommunicate Kings, <hi>2.</hi> That he hath power to abſolue ſubiects from their faith and alleageance, <hi>3.</hi> That the Pope may depoſe Princes from their Scepter and Crowne, and giue the ſame vnto ano<g ref="char:EOLhyphen"/>ther, <hi>4.</hi> That any priuate man may be made executi<g ref="char:EOLhyphen"/>oner to murther or to poyſon the excommunicated King, <hi>5.</hi> That faith muſt not be kept with Heretikes, <hi>6.</hi> That whoſoeuer is not within the communion of the Romiſh Church is an Heretike, and conſequently that your high<g ref="char:EOLhyphen"/>nes is ſuch a one, <hi>7.</hi> That no Cleargie-man can commit treaſon againſt any temporall King, becauſe he is not the Kings ſubiect, but the Popes; and ſuch like: <hi>care</hi> not <hi>in conſcience,</hi> at the Popes becke, nay thinke it high
+<pb n="17" facs="tcp:183783:8"/>merit, if he ſo commaund, not onely to tranſgreſſe <hi>your lawes, but alſo to lay violent hands and to murder your ſacred perſon, which God forbid. But Protestants, ha<g ref="char:EOLhyphen"/>uing learned to</hi>
+               <note n="*" place="margin">Matth. 22.21</note> 
+               <hi>giue vnto</hi> Caeſar <hi>the things of</hi> Caeſar, <hi>and to God the things of God; and to obey the</hi>
+               <note n="*" place="margin">Rom. 13.1.</note> 
+               <hi>higher powers, which are the ordinance of God,</hi> cannot but in ſoule be grieuouſly tortured for the leaſt preuari<g ref="char:EOLhyphen"/>cation of <hi>the Magistrates iuſt, neceſſarie, or conuenient lawes.</hi>
+            </p>
+            <p n="13">13 Wherefore moſt <hi>gracious</hi> Soueraigne, wee your <hi>euer-faithfull</hi> ſubiects, in all dutifull ſubmiſſi<g ref="char:EOLhyphen"/>on, <hi>vow and</hi> proteſt before the Maieſtie of God and all his holy Angels, as loyall obedience and as immaculate allegeance vnto your Grace, as euer did faithfull ſubiects in England or Scotland vnto your Highnes progenitors <hi>and predeceſſors;</hi> and in<g ref="char:EOLhyphen"/>tend as ſincerely with our goods and liues to ſerue you, as euer did the loyalleſt Iſraelites King <hi>Dauid,</hi> or the truſtie legions the Romane Emperours.</p>
+            <p n="14">14 And thus, <hi>not doubting of your Maieſties con<g ref="char:EOLhyphen"/>ſtant profeſsion of true Religion, and godly care for the rooting out of all Idolatrie,</hi> we reſt your deuoted ſup<g ref="char:EOLhyphen"/>pliants to him whoſe hands doe mannage the hearts of Kings, and with reciprocate <hi>Honor,</hi> will <hi>honor them that honor him.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Your ſacred Maieſties moſt faithfull Seruants,</hi> The Proteſtants of <hi>England.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="20" facs="tcp:183783:9"/>
+            <head>A BRIEFE CON<g ref="char:EOLhyphen"/>SIDERATION OF THE CATHOLIKES REASONS FOR TOLERATION OF THEIR Religion in England, intimated in their <hi>Supplication to his Highnes.</hi>
+            </head>
+            <div type="reason">
+               <head>I. REASON.</head>
+               <p>The Catholikes are readie to performe any allegeance or dutie that the King can deſire or expect at their hands.<note place="margin">Out of the 3. Section of the Supplication.</note>
+               </p>
+               <p>
+                  <hi>Ergo,</hi> It may pleaſe his Maieſtie to graunt them a to<g ref="char:EOLhyphen"/>leration of their Religion.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <div type="to_antecedent">
+                  <head>
+                     <hi>I.</hi> To the Antecedent.</head>
+                  <p n="1">1 The Antecedent muſt be vnderſtoode con<g ref="char:EOLhyphen"/>ditionally, <hi>vid.</hi> If the King will graunt a tolerati<g ref="char:EOLhyphen"/>on, then the Papiſts ſay they will be dutifull; elſe they will not: but will runne on the old bias a<g ref="char:EOLhyphen"/>gaine for practiſe and treacherie againſt his Royall Perſon and the State, as they were wont in Queene <hi>Elizabeths</hi> time. But if they will not bee du<g ref="char:EOLhyphen"/>tifull
+<pb n="21" facs="tcp:183783:9"/>Subiects for conſcience ſake, as they are bound to be: Our dread Soueraigne (in my opi<g ref="char:EOLhyphen"/>nion) ſhall haue ſmall good of their mercenarie ſeruice.</p>
+                  <p n="2">2 Popiſh Religion in the Articles thereof, is treaſon againſt the lawfull authoritie and ſtate of our King. <hi>See the Counterpoyſe, Sect.</hi> 12. Therefore whatſoeuer the Papiſts, either proteſt or pretend, it skilles not, they can be no loyall Subiects, ſo long as the Pope may diſcharge them from alle<g ref="char:EOLhyphen"/>geance to their Prince. <hi>See note.</hi> 35.</p>
+                  <p n="3">3 By vertue of Popiſh Religion, the Eccleſiaſti<g ref="char:EOLhyphen"/>call ſtate challengeth immunitie and exemption from his Highnes power, iudiciall courts, and in caſe of ordinarie contributions; they withdraw their allegeance from the King, vnto the obedi<g ref="char:EOLhyphen"/>ence of a forraine Potentate, denying him an ab<g ref="char:EOLhyphen"/>ſolute power in his owne Dominions.</p>
+               </div>
+               <div type="to_consequence">
+                  <head>
+                     <hi>II.</hi> To the Conſequence.</head>
+                  <p n="1">1 Howſoeuer his Maieſtie, in policie, might wiſh all Papiſts within his Dominions, to be duti<g ref="char:EOLhyphen"/>full and obedient Subiects: yet cannot his High<g ref="char:EOLhyphen"/>nes allow and accept of the courſe leading there<g ref="char:EOLhyphen"/>unto, vnleſſe he finde it warranted by the law of God; ſuch as toleration of Popiſh Idolatrie can neuer be.</p>
+                  <p n="2">2 The practiſes of the Papiſts being vncertaine, it fits not the deepe reach of a Prince, to remedie vncertaine and leſſer accidents, by opening free paſſage to more aſſured and greater perils.</p>
+               </div>
+            </div>
+            <div type="reason">
+               <pb n="22" facs="tcp:183783:10"/>
+               <head>II. REASON.</head>
+               <p>
+                  <note place="margin">Out of the third and fourth ſection.</note>The Catholikes haue been very forward in maintai<g ref="char:EOLhyphen"/>ning and defending the Kings iust and lawfull title to the Scepter of Albion.</p>
+               <p>
+                  <hi>Ergo,</hi> His Maieſtie might doe well to gratifie them with a toleration.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <div type="to_antecedent">
+                  <head>
+                     <hi>I.</hi> To the Antecedent.</head>
+                  <p n="1">1 If the Papiſts were ſo firme (as now they ſay) for the Kings lawfull title: they would not haue been ſo forward for the Infantaes pretended title, as they haue.</p>
+                  <p n="2">2 Graunt they were ſo forward for his Maie<g ref="char:EOLhyphen"/>ſties title: yet it is very credible that they were but mercenarie Iudaſes, for <hi>Quid vultis mihi dare, &amp; ego tradam &amp;c.</hi> They would doe ſomewhat vpon hope of toleration, els iuſt nothing for conſcience and equitie.</p>
+                  <p n="3">3 This which they pretend ſhould ſeeme to be in Queene <hi>Elizabeths</hi> daies, which (if it were ſo) on their part, was great diſloyaltie to their Prince. And it may well be thought that traiterous hearts to Queene <hi>Elizabeth,</hi> can be none of the faithful<g ref="char:EOLhyphen"/>leſt Subiects to King <hi>Iames.</hi>
+                  </p>
+               </div>
+               <div type="to_consequence">
+                  <head>
+                     <hi>II.</hi> To the Conſequence.</head>
+                  <p n="1">1 Suppoſe it lawfull in Queene <hi>Elizabeths</hi> daies for Catholikes to flie from their countrie, and to be factiouſly forward for the Kings lawfull
+<pb n="23" facs="tcp:183783:10"/>title; they did but their dutie. Yet is it not lawfull for his Maieſtie to permit the free exerciſe of Ido<g ref="char:EOLhyphen"/>latrie, which were plaine impietie.</p>
+                  <p n="2">2 If this alſo were lawfull in it ſelfe, yet were it no policie to graunt the Papiſts a toleration, conſi<g ref="char:EOLhyphen"/>dering their intention and aime for alteration, their number, dependencie, confederacie forraine and domeſtike, and other correſpondent abilities, ſtrong and to be ſuſpected.</p>
+               </div>
+            </div>
+            <div type="reason">
+               <head>III. REASON.</head>
+               <p>Puritanes and Atheiſts, being of contrary Religion to the Proteſtants, are tolerated in England.<note place="margin">Out of the 6. Section.</note>
+               </p>
+               <p>
+                  <hi>Ergo,</hi> His Maiestie may, with like reaſon, tolerate the free exerciſe of the Catholike Religion.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <div type="to_antecedent">
+                  <head>
+                     <hi>I.</hi> To the Antecedent.</head>
+                  <p n="1">1 Such as doe ſcandalouſlie or ſchiſmaticallie withdraw themſelues from our publike congre<g ref="char:EOLhyphen"/>gations, and refuſe to ſerue the Lord together with vs, are not permitted but puniſhed by our lawes.</p>
+                  <p n="2">2 Puritanes (as they terme them) are not con<g ref="char:EOLhyphen"/>trarie to the Proteſtants in Religion. <hi>See before note</hi> 11.</p>
+                  <p n="3">3 As for Atheiſme, it is not publikely profeſſed in England, and therefore there can be no permiſ<g ref="char:EOLhyphen"/>ſion thereof. <hi>See note</hi> 15.</p>
+               </div>
+               <div type="to_consequence">
+                  <head>
+                     <hi>II.</hi> To the Conſequence.</head>
+                  <p n="1">1 Vpon ſuppoſed toleration of the factious and
+<pb n="24" facs="tcp:183783:11"/>ſchiſmaticall Puritane, there is no reaſon for tole<g ref="char:EOLhyphen"/>ration of the Papiſt; for diuers cauſes, <hi>videl.</hi>
+                  </p>
+                  <list>
+                     <item>I. The Puritane holdes no opinion directly op<g ref="char:EOLhyphen"/>poſit either to the Maieſtie of God, or his Highnes Soueraigntie: But the Papiſt doth.</item>
+                     <item>II. If the Puritaine did offend any of theſe wayes, yet ſhould not the Papiſt be admitted: for ſo the number of bad ſubiects ſhould be encreaſed.</item>
+                  </list>
+                  <p n="2">2 The Papiſt is more daungerous then the Pu<g ref="char:EOLhyphen"/>ritaine or Atheiſt, by reaſon of his opinion of lear<g ref="char:EOLhyphen"/>ning, of his diſloyall carriage, of his number and dependencie at home and abroade.</p>
+               </div>
+            </div>
+            <div type="reason">
+               <head>IIII. REASON.</head>
+               <p>The French King hath graunted a toleration of both Religions,<note place="margin">Out of the 7. Section.</note> which is the cauſe of quietnes in his kingdome.</p>
+               <p>
+                  <hi>Ergo,</hi> The King of England may doe ſo likewiſe.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <div type="to_antecedent">
+                  <head>
+                     <hi>I.</hi> To the Antecedent.</head>
+                  <p n="1">1 The cauſe of quietnes in Fraunce was not to<g ref="char:EOLhyphen"/>leration, but the baniſhment of the Ieſuites. <hi>See the Counterpoyſe Sect.</hi> 7.</p>
+                  <p n="2">2 The contrarie religion in Fraunce is tolerated of neceſſitie and diſabilitie of the Catholikes part to expugne and ruine the other, as it was in the time of <hi>Charles</hi> the ninth, and <hi>Henrie</hi> the third.</p>
+                  <p n="3">3 Such as the French King doth tolerate, doe in opinion derogate nothing from his Soueraign<g ref="char:EOLhyphen"/>tie, nor in action attempt any thing againſt his per<g ref="char:EOLhyphen"/>ſon:
+<pb n="25" facs="tcp:183783:11"/>But it is and euer was otherwiſe with Papiſts in England.</p>
+               </div>
+               <div type="to_consequence">
+                  <head>
+                     <hi>II.</hi> To the Conſequence.</head>
+                  <p n="1">1 Men liue by the rule of Reaſon and law, not by examples.</p>
+                  <p n="2">2 The French King holdeth correſpondence in religion with the Pope; therefore in a queſtion of the worſhip and ſeruice of the Lord, he cannot be a fit preſident to a Chriſtian Prince profeſſing the Goſpell.</p>
+                  <p n="3">3 Though the French King permitteth the free exerciſe of the Goſpell, a doctrine lawfull in it ſelfe and holie, which derogateth nothing from Prin<g ref="char:EOLhyphen"/>ces ſoueraigntie: yet may not the King of England permit Papiſtrie, the doctrine being Antichriſtian and vnlawfull in it ſelfe, ioyned alſo with diſhonor and perill.</p>
+                  <p n="4">4 The French King alloweth toleration to ſuch who acknowledge him for their lawfull So<g ref="char:EOLhyphen"/>ueraigne, who neuer plotted againſt his Crowne and life, nor can be induced vpon any ſuggeſtion ſo to doe: whereas his Maieſtie of England is ſo<g ref="char:EOLhyphen"/>licited to yeeld it to ſuch who hold that he is an Heretike, that hee may be diueſted, by the Popes Bull, of his imperiall Crowne and regalities; who haue diſpoſed of their allegeance to a forraine Prince; who neuer ceaſe from proiects and practi<g ref="char:EOLhyphen"/>ſes for alteration; who in fitteſt oportunitie, vpon mandate from the Pope, are readie to take armes for the ſubuerſion of his Scepter and ſtate, of his royall perſon, and of the Goſpell.</p>
+               </div>
+            </div>
+            <div type="reason">
+               <pb n="26" facs="tcp:183783:12"/>
+               <head>V. REASON.</head>
+               <p>Vpon graunt of toleration England will not be odious to all Chriſtian Nations for cruell perſecution of Catholikes,<note place="margin">Out of the 8. Section.</note> as now they are.</p>
+               <p>
+                  <hi>Ergo,</hi> Toleration ſhould in good reaſon be allowed and maintained.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <div type="to_antecedent">
+                  <head>
+                     <hi>I.</hi> To the Antecedent.</head>
+                  <p n="1">1 England is not odious to all Chriſtian Nati<g ref="char:EOLhyphen"/>ons, neither did it euer (within the ſuppoſed time) perſecute Catholikes, but puniſh Traytors.</p>
+                  <p n="2">Toleration being admitted, yet will not ſuch as hate England ceaſe to hate her ſtill, becauſe of the diſgrace that muſt relie vpon Poperie; his Ma<g ref="char:EOLhyphen"/>ieſtie, the State and almoſy all the ſubiects profeſ<g ref="char:EOLhyphen"/>ſing the Goſpell.</p>
+               </div>
+               <div type="to_consequence">
+                  <head>
+                     <hi>II.</hi> To the Conſequence.</head>
+                  <p n="1">1 To graunt toleration that England might not be ſlaundered for proceedings againſt Papiſts, and hated by thoſe of that faction, were for curing of the headach, to knock out the braines.</p>
+                  <p n="2">If we conſider the parties that hate vs, the in<g ref="char:EOLhyphen"/>ſufficient ground they haue for their hating vs, the little meaſure of preiudice or dammage that com<g ref="char:EOLhyphen"/>meth thereof: and on the other ſide the ineuitable diſhonour, the daunger and miſchiefe of tolera<g ref="char:EOLhyphen"/>tion; we ſhall ſee that the former is not worthie a<g ref="char:EOLhyphen"/>ny regard, when there is queſtion of the latter.</p>
+                  <p n="3">3 The ſurceaſe of Catholike-hate being altoge<g ref="char:EOLhyphen"/>ther vncertaine and accidentarie, it cannot be in policie a ſufficient ground for imbracing of dange<g ref="char:EOLhyphen"/>rous toleration.</p>
+               </div>
+            </div>
+            <div type="reason">
+               <pb n="27" facs="tcp:183783:12"/>
+               <head>VI REASON.</head>
+               <p>Toleration will ſtay hoſtile attempts of Catholikes a<g ref="char:EOLhyphen"/>gainſt the Realme; and ſo Traffique will be free,<note place="margin">Out of the 8. Section.</note> Subſidies and Taxes ſhall not be ſo many, &amp;c.</p>
+               <p>
+                  <hi>Ergo,</hi> Toleration is to be imbraced.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <div type="to_antecedent">
+                  <head>
+                     <hi>I.</hi> To the Antecedent.</head>
+                  <p n="1">1 It is not the cauſe of Religion (though it hath been ſome part of their pretence) that embarked enemies againſt this land: But violent humours of ambition to a Monarchy, of malice and reuenge vpon ſuppoſed indignities; the ſecuring of their owne greatnes by impayring their Neighbours, &amp;c. therefore toleration cannot redreſſe hoſtilitie.</p>
+                  <p n="2">2 Suppoſe Religion the cauſe, yet it is not tole<g ref="char:EOLhyphen"/>ration, but alteration that they aime at, and therfore their hoſtile practiſes and machinations are vnlike<g ref="char:EOLhyphen"/>ly to ceaſe for toleration.</p>
+                  <p n="3">3 Hoſtile attempts may ceaſe without tolera<g ref="char:EOLhyphen"/>tion; as by diſabilitie on the aduerſe part, neceſſi<g ref="char:EOLhyphen"/>tie, compulſion, &amp;c.</p>
+               </div>
+               <div type="to_consequence">
+                  <head>
+                     <hi>II.</hi> To the Conſequence.</head>
+                  <p n="1">1 Euill muſt not be done that good may come thereof: Toleration of Idolatrie cannot be denied to be euill.</p>
+                  <p n="2">2 Of two euils the leſſer is to be choſen. Hoſtile attempts may endaunger the bodie: Toleration damneth the ſoule.</p>
+               </div>
+            </div>
+            <div type="reason">
+               <head>VII. REASON.</head>
+               <p>Toleration will be gratefull to all Catholike Princes a<g ref="char:EOLhyphen"/>broad.<note place="margin">Out of the 9. Section.</note>
+               </p>
+               <pb n="28" facs="tcp:183783:13"/>
+               <p>Ergo, <hi>It ought to be granted.</hi>
+               </p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <div type="to_antecedent">
+                  <head>
+                     <hi>I.</hi> To the Antecedent.</head>
+                  <p n="1">1 Alteration would be more gratefull vnto Ca<g ref="char:EOLhyphen"/>tholike Princes, then toleration: ſhould alteration therefore be graunted?</p>
+               </div>
+               <div type="to_consequence">
+                  <head>
+                     <hi>II.</hi> To the Conſequence.</head>
+                  <p n="1">1 Should his royal Maieſtie graunt an impietie, and hazard his royal eſtate and perſon, yea his ſub<g ref="char:EOLhyphen"/>iects and the Goſpel, to gratifie Catholike Princes?</p>
+                  <p n="2">2 <hi>Whether it be right in the ſight of God, to obey you rather then God, iudgeye,</hi> Act. 4.19.</p>
+                  <p n="3">3 <hi>If I ſhould pleaſe men, I were not the ſeruant of Chriſt,</hi> ſaith the Apoſtle, Galat. 1.10. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </p>
+               </div>
+            </div>
+            <div type="reason">
+               <head>VII. REASON.</head>
+               <p>
+                  <note place="margin">Out of the 9. Section.</note>All Engliſh ſubiects would be acceptable to all Ca<g ref="char:EOLhyphen"/>tholike countries, who are now almoſt abhorred of all, if toleration were graunted.</p>
+               <p>
+                  <hi>Ergo,</hi> Toleration is not to be denied.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <div type="to_antecedent">
+                  <head>
+                     <hi>I.</hi> To the Antecedent.</head>
+                  <p n="1">1 It is falſe that Engliſhmen are abhorred of all Catholike countries, otherwiſe then for their reli<g ref="char:EOLhyphen"/>gion, as all other Proteſtants be.</p>
+                  <p n="2">2 Suppoſe a toleration; yet diſſenſion in reli<g ref="char:EOLhyphen"/>gion extinguiſheth acceptation in affection: there<g ref="char:EOLhyphen"/>fore it is not probable that Engliſh ſubiects being Proteſtants in religion, ſhould be eſteemed and ac<g ref="char:EOLhyphen"/>cepted among ſuch as are of a contrarie faction.</p>
+                  <pb n="29" facs="tcp:183783:13"/>
+                  <p n="3">3 <hi>Nullus eſt fidus eorum affectus quorum eſt diuerſa fides:</hi> ſaith <hi>Hierome.</hi>
+                  </p>
+                  <p n="4">4 Not toleration, but plaine alteration would (peraduenture) make Engliſh ſubiects acceptable.</p>
+               </div>
+               <div type="to_consequence">
+                  <head>
+                     <hi>II.</hi> To the conſequence.</head>
+                  <p n="1">1 No ſinne muſt be committed againſt God for gaining of particular aduantage.</p>
+                  <p n="2">2 It is a groſſe error in pollicie, in hope of idle and accidentarie reputation, to make choice of cer<g ref="char:EOLhyphen"/>taine miſchiefe.</p>
+               </div>
+            </div>
+            <div type="reason">
+               <head>IX. REASON.</head>
+               <p>
+                  <note place="margin">Out of the 9. Section.</note>Vpon toleration of Catholike Religion, we ſhall enioy aſſured peace; Swordes ſhall bee changed into ploughes and launces into ſithes.</p>
+               <p>
+                  <hi>Ergo,</hi> Toleration is to be admitted.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <div type="to_antecedent">
+                  <head>
+                     <hi>I.</hi> To the Antecedent.</head>
+                  <p n="1">1 Religion is not the cauſe of diſturbance of peace and hoſtile attempts againſt this kingdome: as hath been ſaid alreadie.</p>
+                  <p n="2">2 If it were the cauſe: yet the Goſpell, which is the thing they would extirpate, ſhould remaine ſtill for all toleration; ſo that warres are not likely to ceaſe.</p>
+                  <p n="3">3 Toleration would hatch ſimultation, iarres, diſcord, diſſenſion, and at laſt deadly warre, rather then peace.</p>
+                  <p n="4">4 If Papiſts ſtill attempted treaſons in time of their reſtraint in Queene <hi>Elizabeths</hi> dayes: is it not probable, that hauing more libertie, they would be
+<pb n="30" facs="tcp:183783:14"/>more treacherous? eſpecially the Popes malice a<g ref="char:EOLhyphen"/>gainſt the Goſpell being ſtill the ſame, and their o<g ref="char:EOLhyphen"/>bedience to him not renounced?</p>
+               </div>
+               <div type="to_consequence">
+                  <head>
+                     <hi>II.</hi> To the Conſequence.</head>
+                  <p n="1">1 Vpon ſuppoſition of peace enſuing vpon toleration, which is not likely: yet curſed be that peace, when it cannot be procured, but by ſinning againſt God.</p>
+                  <p n="2">2 <hi>Maledicta ſit omnis concordia, deſtituta ſinceritate veritatis;</hi> ſaith <hi>Irenaeus.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="reason">
+               <head>X. REASON.</head>
+               <p>
+                  <note place="margin">Out of the 10. Section.</note>All the Kings happie predeceſſors profeſſed the Catho<g ref="char:EOLhyphen"/>like Religion.</p>
+               <p>
+                  <hi>Ergo,</hi> His Maieſtie ought (at leaſt) to grant a tole<g ref="char:EOLhyphen"/>ration.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <div type="to_antecedent">
+                  <head>
+                     <hi>I.</hi> To the Antecedent.</head>
+                  <p n="1">1 The Antecedent is falſe: Poperie was hatch<g ref="char:EOLhyphen"/>ed but of late times.</p>
+                  <p n="2">2 <hi>Henrie</hi> the eight, <hi>Edward</hi> the ſixt, and Queene <hi>Elizabeth</hi> of happie memorie, (to ſpeake of no o<g ref="char:EOLhyphen"/>ther) were the Kings predeceſſors, yet they profeſ<g ref="char:EOLhyphen"/>ſed not the Popiſh Religion.</p>
+               </div>
+               <div type="to_consequence">
+                  <head>
+                     <hi>II.</hi> To the Conſequence.</head>
+                  <p n="1">1 If his Maieſties predeceſſors had profeſſed Poperie, yet that can be no warrant for his High<g ref="char:EOLhyphen"/>nes ſo to doe; becauſe we muſt not liue by exam<g ref="char:EOLhyphen"/>ples, but by lawes and reaſon.</p>
+                  <p n="2">2 It is not antiquitie, nor cuſtome that makes a thing lawfull in it ſelfe; neither muſt we ſo much
+<pb n="31" facs="tcp:183783:14"/>regard the ancient way, as the good way. See Matth. 15.2. to the 12. Act. 7.51.52.1. Pet. 1.18.</p>
+                  <p n="3">3 Our Fathers muſt not be followed in euill. <hi>Be ye not as your fathers,</hi> Zach. 1.4. <hi>Walke not in the ordi<g ref="char:EOLhyphen"/>nances of your fathers, neither obſerue their manners, nor defile your ſelues with their Idols.</hi> Ezech. 20.18. See al<g ref="char:EOLhyphen"/>ſo Pſal. 78.8. Pſal. 95.9. Amos. 2.4.</p>
+               </div>
+            </div>
+            <div type="reason">
+               <head>XI. REASON.</head>
+               <p>
+                  <note place="margin">Out of the 11. Section.</note>The Catholike Religion is ancient, irreprehenſible in doctrine, agreeable to Gods word, &amp;c.</p>
+               <p>
+                  <hi>Ergo,</hi> Catholike Religion ought to be tolerated.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <p>The Antecedent is an impudent begging of the queſtion, and can neuer be proued: therefore the Conſequence falleth of it ſelfe.</p>
+            </div>
+            <div type="reason">
+               <head>XII. REASON.</head>
+               <p>
+                  <note place="margin">Out of the 12. Section.</note>The Catholikes onely ſerue the King, and obſerue his lawes for conſcience.</p>
+               <p>
+                  <hi>Ergo,</hi> Catholikes ought to be tolerated.</p>
+            </div>
+            <div type="answer">
+               <head>ANSWERE.</head>
+               <p>Thi reaſon is of the ſame nature with the firſt reaſon and is there anſwered. <hi>See alſo the Counter<g ref="char:EOLhyphen"/>poyſe Setion</hi> 12.</p>
+               <p>
+                  <hi>So much for the Catholikes reaſons for toleration: Now w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> will conſider the Proteſtants reaſons againſt it.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="32" facs="tcp:183783:15"/>
+            <head>THE PROTESTANTS REASONS AGAINST TOLE<g ref="char:EOLhyphen"/>RATION OF POPERIE in England.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He reaſons againſt toleration of Papiſticall religion in this land, are of two ſorts: 1. <hi>The<g ref="char:EOLhyphen"/>ologicall,</hi> drawne from the ſcriptures either expreſſely, or by neceſſarie conſequence. 2. <hi>Politike,</hi> taken from conſideration of the particular ſtate of this kingdom, or from the religion and perſons of the Papiſts.</p>
+            <div type="reason">
+               <head>I. REASON.</head>
+               <p>
+                  <hi>Whatſoeuer is offenſiue vnto God, is not to be admit<g ref="char:EOLhyphen"/>ted.</hi>
+               </p>
+               <p>
+                  <hi>Toleration of Papiſtrie is an offence vnto God.</hi>
+               </p>
+               <p>Ergo, <hi>Toleration is not to be admitted.</hi>
+               </p>
+               <p>Onely the aſſumption commeth in queſtion, which I prooue by this Proſyllogiſme.</p>
+               <p>
+                  <hi>Toleration of Idolatrie is offenſiue vnto God.</hi>
+               </p>
+               <p>
+                  <hi>Toleration of Papiſtrie is toleration of Idolarie.</hi>
+               </p>
+               <p>Ergo, <hi>Toleration of Papiſtrie is offenſiue vno God.</hi>
+               </p>
+               <p>The propoſition is manifeſt, becauſe Id<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>latrie it ſelfe is offenſiue vnto God; and conſeque<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tly the exerciſe and permiſſion of the ſame. A C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſtian Prince being the keeper of both tables of he De<g ref="char:EOLhyphen"/>calogue, ſhould not ſuffer Idolators t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> defile
+<pb n="33" facs="tcp:183783:15"/>the worſhip of God within his dominions.</p>
+               <p>The aſſumption no Proteſtant can deny; ſeeing popiſh worſhip of God is Idolatrous worſhip: wherefore it needeth no proofe. Neither haue I penned theſe reaſons for Papiſts.</p>
+            </div>
+            <div type="reason">
+               <head>II. REASON.</head>
+               <p>
+                  <hi>Whatſoeuer the good Kings of Iudah and other godly Princes are commended for in the ſcriptures, that Chriſtian Princes ought to imitate.</hi>
+               </p>
+               <p>
+                  <hi>But the good Kings of Iudah were commended for ex<g ref="char:EOLhyphen"/>pelling of contrarie worſhippers, and repreſsing of Idolatrie.</hi>
+               </p>
+               <p>Ergo, <hi>Chriſtian Princes ought to expell contrarie worſhippers, &amp; to repreſſe Idolatrie in like manner.</hi>
+               </p>
+               <p>The propoſition is manifeſt, for whatſoeuer is written, is written for our inſtruction.</p>
+               <p>The aſſumption is proued by induction: <hi>Aſa</hi> brake downe the altars and images of ſtraunge Gods, 2. Chron. 14.3. <hi>Iehoſhaphat</hi> remoued the high places and groues, 2. Chron. 17.6. <hi>Ioſiah</hi> put downe the Chemarims, that were Idolatrous Prieſts, 2. King. 23.5. <hi>Iacob</hi> would not ſuffer Idolatrie to be committed in his houſe, but buried all the Images vnder an Oke, Geneſ. 35.5. All which were com<g ref="char:EOLhyphen"/>mended for ſo doing.</p>
+            </div>
+            <div type="reason">
+               <head>III. REASON.</head>
+               <p>
+                  <hi>Whatſoeuer is diſcommended in other Kings, is to be eſchewed of Chriſtian Princes.</hi>
+               </p>
+               <p>
+                  <hi>Toleration of contrarie worſhippers and permiſsion of Idolatrie is diſcommended in other Kings.</hi>
+               </p>
+               <pb n="34" facs="tcp:183783:16"/>
+               <p>Ergo, <hi>Toleration is to be eſchewed of Chriſtian Prin<g ref="char:EOLhyphen"/>ces.</hi>
+               </p>
+               <p>The aſſumption is proued by the examples of ſuch Kings as had not taken away the high places; as <hi>Iehoaſh,</hi> 2. King. 12.3. and <hi>Azariah,</hi> 2. King. 15.4.</p>
+            </div>
+            <div type="reason">
+               <head>IIII. REASON.</head>
+               <p>
+                  <hi>Halting betweene two opinions is not lawfull.</hi>
+               </p>
+               <p>
+                  <hi>Toleration of two contrarie religions, is halting be<g ref="char:EOLhyphen"/>tweene two opinions.</hi>
+               </p>
+               <p>Ergo, <hi>Toleration of two contrarie religions is vn<g ref="char:EOLhyphen"/>lawfull.</hi>
+               </p>
+               <p>The propoſition is cleare out of the words of <hi>Eliah, How long will ye halt betweene two opinions? If the Lord be God, follow him: But if</hi> Baal <hi>be, goe after him,</hi> 1. King. 18.21. And alſo out of Zephan. 1.5. <hi>I wil ſtretch out mine hand vpon them that worſhip &amp; ſweare by the Lord, and ſweare by</hi> Malcham.</p>
+               <p>The Aſſumption is manifeſt, for whoſoeuer cauſeth another to ſinne, is ſaid to commit that ſin himſelfe; ſo <hi>Dauid</hi> is ſaid to murder <hi>Vriah.</hi>
+               </p>
+            </div>
+            <div type="reason">
+               <head>V. REASON.</head>
+               <p>That which would be a meanes to obdurate and har<g ref="char:EOLhyphen"/>den Papiſts in their ſuperſtition, is to be auoided.</p>
+               <p>Toleration of their religion, is a meanes to harden them, whereas otherwiſe there might be hope of them, &amp;c.</p>
+               <p>
+                  <hi>Ergo,</hi> Toleration of Popiſh religion is to be auoided.</p>
+            </div>
+            <div type="reason">
+               <head>VI. REASON.</head>
+               <p>That which would be offenſiue vnto all Chriſtian Princes and people, is not to be admitted.</p>
+               <p>Toleration of Poperie in England, would be offenſiue to all Chriſtian Princes and people.</p>
+               <pb n="35" facs="tcp:183783:16"/>
+               <p>
+                  <hi>Ergo,</hi> Toleration is not to be admitted.</p>
+            </div>
+            <div type="reason">
+               <head>VII. REASON.</head>
+               <p>
+                  <hi>Whatſoeuer would be diſhonorable vnto his excellent Maieſtie, is not to be admitted.</hi>
+               </p>
+               <p>
+                  <hi>Toleration of poperie, would be very diſhonorable vn<g ref="char:EOLhyphen"/>to his Highnes.</hi> For he hath euer hitherunto conſtantly profeſſed the Goſpell; and now enioyeth a kingdome wherein the Goſpell is eſtabliſhed; beſides that the glorie of a King proceedeth from intertaining ſuch conſtitu<g ref="char:EOLhyphen"/>tions and decrees in religion, as God him<g ref="char:EOLhyphen"/>ſelfe hath enacted and deliuered.</p>
+               <p>Ergo, <hi>Toleration is not to be admitted.</hi>
+               </p>
+            </div>
+            <div type="reason">
+               <head>VIII. REASON.</head>
+               <p>
+                  <hi>Whatſoeuer is not for his Maieſties ſaftie, nor for the ſafetie of his kingdome, that is not to be admitted.</hi>
+               </p>
+               <p>
+                  <hi>Toleration of Papiſts is not for his Maieſties ſafetie, nor for the ſafetie of his kingdome;</hi> becauſe it is impoſſible for Papiſts to be loyall ſubiects to any Proteſtant Prince, as hath been often de<g ref="char:EOLhyphen"/>clared before.</p>
+               <p>Ergo, <hi>Fie vpon toleration of diſloyall Papiſts.</hi>
+               </p>
+            </div>
+            <div type="reason">
+               <head>IX. REASON.</head>
+               <p>
+                  <hi>Whatſoeuer would breede confuſion and diſquietnes in the land, that is to be auoyded.</hi>
+               </p>
+               <p>
+                  <hi>Toleration of Papiſtrie would breede confuſion and vprores in the land.</hi> For it would tend to the antiquating and repealing of diuers profita<g ref="char:EOLhyphen"/>ble lawes alreadie enacted againſt Popiſh
+<pb n="36" facs="tcp:183783:17"/>practiſes; and harten the Papiſts to perpetrate any villanie, &amp;c.</p>
+               <p>Ergo, <hi>Toleration of Poperie is to be auoyded.</hi>
+               </p>
+            </div>
+            <div type="reason">
+               <head>X. REASON.</head>
+               <p>That which in Papiſts will double their allegeance and deuotion to the Pope, is not to be tolerated.</p>
+               <p>Toleration of Poperie will double the Papiſtes allege<g ref="char:EOLhyphen"/>ance and deuotion vnto the Pope. <hi>For immunitie and freedome of profeſſion will draw on more followers, and obdurate them in their blindnes.</hi>
+               </p>
+               <p>
+                  <hi>Ergo,</hi> Out vpon toleration of Poperie.</p>
+            </div>
+            <div type="reason">
+               <head>XI. REASON.</head>
+               <p>Whatſoeuer will treble the Papiſts deteſtation of our religion, and raiſe their deſires of a full and entire reeſtabliſhment, that is to be abandoned.</p>
+               <p>Toleration of Poperie will treble the Papiſts deteſtati<g ref="char:EOLhyphen"/>on of our religion, and raiſe vp their deſires of a full and entire reeſtabliſhment, <hi>as is manifeſt.</hi>
+               </p>
+               <p>
+                  <hi>Ergo,</hi> Toleration of Poperie is to be abandoned.</p>
+            </div>
+            <div type="reason">
+               <head>XII. REASON.</head>
+               <p>If the Pope in none of his territories, nor where hee hath abſolute iuriſdiction, doth graunt any liberty to Protestants, but tolerateth rather Iewes and Turkes; and perſecuteth Proteſtants with fire and ſword: neither is it any reaſon that his Popiſh Ca<g ref="char:EOLhyphen"/>terpillers ſhould receiue any ſuch toleration in any Protestants dominions. For what meaſure they
+<pb n="37" facs="tcp:183783:17"/>meate vnto others, the ſame ſhould others meate vnto them.</p>
+               <p>But the Antecedent is true: otherwiſe they would re<g ref="char:EOLhyphen"/>peale their Edicts and decrees againſt Proteſtants; cancell and fruſtrate the power of the bloodie In<g ref="char:EOLhyphen"/>quiſition; ſpare all ſearch after their Perſons; ſur<g ref="char:EOLhyphen"/>ceaſe their confiſcations and all criminall proceſſe againſt them.</p>
+               <p>
+                  <hi>Ergo,</hi> The Conſequent is true alſo, <hi>videl.</hi> That there is no reaſon to graunt the Papiſts any toleration of their religion.</p>
+            </div>
+            <div type="reason">
+               <head>XIII. REASON.</head>
+               <p>If the Papiſts themſelues doe holde that King to be a ſtarke Atheiſt and to haue no ſenſe of religio<g ref="char:cmbAbbrStroke">̄</g>, which admitteth contrarie worſhippers and mixture of religions: then do they intolerable iniurie vnto our King in ſoliciting his Highnes to permit ſuch freedome and mixture of religions.</p>
+               <p>But the Antecedent is true;<note place="margin">VVeſtonus de Triplici Ho<g ref="char:EOLhyphen"/>minis officio, lib. <hi>3.</hi> cap. <hi>14.</hi> pag. <hi>186.</hi>
+                  </note> 
+                  <hi>as may be proued out of their owne writings;</hi> Religio promiſcua prin<g ref="char:EOLhyphen"/>cipem oſtendit Atheum. <hi>And againe,</hi> Qui magi<g ref="char:EOLhyphen"/>ſtratus liberum ſuis facit promiſcuum vſum &amp; coalitionem religionum, exiſtimatur inde velle re<g ref="char:EOLhyphen"/>ligionem omnem eneruare paulatim ac ſenſim, ne<g ref="char:EOLhyphen"/>que animo ac ingenuè vlla<g ref="char:cmbAbbrStroke">̄</g> colere, aut magnopere curare. Siquidem cordi ſi modo Principi eſſet Re<g ref="char:EOLhyphen"/>ligio, nequaqua<g ref="char:cmbAbbrStroke">̄</g> impunè permitteret vagare ritus adſcititios, prophanos, aut cultum diuinae religioni prorſus contrarium. <hi>Weſton. Ibid. p. 187.</hi>
+               </p>
+               <p>
+                  <hi>Ergo,</hi> The Conſequence is true alſo. <hi>Wherefore to<g ref="char:EOLhyphen"/>leration of Poperie, is not to be admitted.</hi>
+               </p>
+            </div>
+            <div type="reason">
+               <pb n="38" facs="tcp:183783:18"/>
+               <head>XIIII. REASON.</head>
+               <p>If the Papiſts themſelues know in their owne conſci<g ref="char:EOLhyphen"/>ences and acknowledge in their writings, that a<g ref="char:EOLhyphen"/>mongſt contrarie worſhippers, it is impoſsible for the King to liue in ſafetie; then are they wicked traitours againſt his royall Maieſtie, for importu<g ref="char:EOLhyphen"/>ning his grace to admit a toleration which they know to be ſo daungerous vnto his perſon.</p>
+               <p>But the Antecedent is true. <hi>For ſo they write.</hi> Inter omnes minus tutus videtur Princeps,<note place="margin">VVeſtonus ibid. lib. <hi>3.</hi> cap. <hi>14.</hi> pag. <hi>191.</hi>
+                  </note> nec ſanè bone protectus, qui arbitrarias haſce religiones in repub<g ref="char:EOLhyphen"/>lica permittit. Nam aut in alteram partem propen<g ref="char:EOLhyphen"/>det, velin medio, &amp; quaſi aequilibrio ſuſpenſus con<g ref="char:EOLhyphen"/>ſiſtit. Si aliquò inclinet, aduerſaria factio eum pro hoſte habebit cum Dei ipſius tum ſacrorum &amp; ſua<g ref="char:EOLhyphen"/>rum rerum. Si neutro vergat, ab omnibus pro A<g ref="char:EOLhyphen"/>theo habebitur. Et ſane orthodoxi cognoſcentes hae<g ref="char:EOLhyphen"/>reſim adeo eſſe Deo exoſam, ac hominib. peſtifera<g ref="char:cmbAbbrStroke">̄</g>, videnteſque Principem haereticis colludentem, ac illis indulgentem, haereticum ducent animo aut A<g ref="char:EOLhyphen"/>theum. Quod ſi fecerint, quid ſacri aut tuti ſupere<g ref="char:EOLhyphen"/>rit in diademate, imo quid politici? &amp;c.</p>
+               <p>
+                  <hi>Ergo,</hi> The Conſequent is true alſo. videl. <hi>That the Papiſts are wicked traitours to his Maieſtie, for ſupplicating for Toleration.</hi>
+               </p>
+            </div>
+            <div type="reason">
+               <head>XV. REASON.</head>
+               <p>If all Chriſtian Princes be bound in conſcience to per<g ref="char:EOLhyphen"/>ſecute, afflict and torment the great Whore of Ba<g ref="char:EOLhyphen"/>bylon: then ought they not to graunt her a ſeate within their dominions.</p>
+               <pb n="39" facs="tcp:183783:18"/>
+               <p>But the Antecedent is true.<note place="margin">Reuel. 28.6.</note> 
+                  <hi>For it is Gods expreſſe commaundement;</hi> Reward her euen as ſhe hath rewarded you; and giue her double according to her workes: in that cup that ſhe hath filled to you, fill her the double. In as much as ſhe hath glorified her ſelfe, and liued in pleaſure, ſo much giue you to her torment and ſorrow.</p>
+               <p>
+                  <hi>Ergo,</hi> No Chriſtian Prince ought to tolerate poperie, or to ſuffer the Romiſh beaſt to rooſt within his ter<g ref="char:EOLhyphen"/>ritories. <hi>But is bound in conſcience, by vertue of the Lords expreſſe charge, giuen ſpecially vnto Kings and Princes who haue renoun<g ref="char:EOLhyphen"/>ced Antichriſt, to plague and torment all Papiſts, to giue them double payment, to an<g ref="char:EOLhyphen"/>tiquate and aboliſh all Romiſh and Popiſh a<g ref="char:EOLhyphen"/>bomination.</hi>
+               </p>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Reuelat. 7.12.</hi>
+                     </bibl>
+                     <p>Amen. Praiſe, and glorie, and wiſedome, and thankes, and honor, and power, and might, be vnto our God for euer more. Amen.</p>
+                  </q>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb n="38" facs="tcp:183783:19"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="39" facs="tcp:183783:19"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
